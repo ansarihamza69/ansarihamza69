@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansarihamza69
-- 😄 Pronouns: He/Him
+- 🖥️ Ex-intern at Delhi Police
 - 👀 DevOps And Web Dev Enthusiast.
 - 👷 Chairperson and Tech Lead at @tezosjh
 - 🌱 I’m currently learning Web3, DevOps & Developement.
