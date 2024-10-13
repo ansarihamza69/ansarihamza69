@@ -1,3 +1,6 @@
+![Header](https://github.com/ansarihamza69/ansarihamza69/blob/main/Hamza.png)
+
+
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate frontend developer from Jamia Hamdard</h3>
 
