@@ -1,4 +1,4 @@
-![Header](https://github.com/ansarihamza69/ansarihamza69/blob/main/Hamza.png)
+![Header](https://github.com/ansarihamza69/ansarihamza69/blob/main/Hamza%20Header.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
