@@ -1,7 +1,7 @@
 ![Header](https://github.com/ansarihamza69/ansarihamza69/blob/main/Hamza%20Header.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h1 align="center">Hey! 👋, I'm Hamza</h1>
 <h3 align="center">A passionate frontend developer from Jamia Hamdard</h3>
 
 ## What I'm upto:
@@ -26,11 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ansari_hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansari_hamza69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hamza69" height="30" width="40" /></a>
-<a href="https://instagram.com/ansari_hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansari_hamza69" height="30" width="40" /></a>
-<a href="https://hashnode.com/@hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hamza69" height="30" width="40" /></a>
-<a href="https://medium.com/@hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamza69" height="30" width="40" /></a>
+<a href="https://twitter.com/ansari_hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansari_hamza69" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hamza69" height="50" width="60" /></a>
+<a href="https://instagram.com/ansari_hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansari_hamza69" height="50" width="60" /></a>
+<a href="https://hashnode.com/@hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hamza69" height="50" width="60" /></a>
+<a href="https://medium.com/@hamza69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamza69" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
