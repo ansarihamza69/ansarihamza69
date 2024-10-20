@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey! 👋, I'm Hamza</h1>
-<h3 align="center">A passionate frontend developer from Jamia Hamdard</h3>
+<h3 align="center">A passionate developer from Jamia Hamdard</h3>
 
 ## What I'm upto:
 
