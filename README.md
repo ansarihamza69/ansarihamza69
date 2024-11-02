@@ -20,7 +20,7 @@
 
 - 📫 Reach me via **mohdhamza59432@gmail.com**
 
-- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1v9OSaZViUf0QDvs6aDkb02fflJy-Wn4n/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1v9OSaZViUf0QDvs6aDkb02fflJy-Wn4n/view?usp=sharing)
 
 - ⚡ Fun fact **"My code works 99% of the time, the other 1% is just a feature." 😎💻**
 
