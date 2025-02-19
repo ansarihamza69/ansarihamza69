@@ -6,7 +6,7 @@
 
 ## What I'm upto:
 
-- 🔭 Working as Chairperson and Tech Lead at [Tezos JH](https://tezosjamiahamdard.github.io/TezosWebsite)
+- 🔭 Former **Chairperson** and **Tech Lead** at [Tezos JH](https://tezosjamiahamdard.github.io/TezosWebsite)
 
 - 🖥️ Ex-intern at Delhi Police
 
